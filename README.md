@@ -5,7 +5,7 @@ strong AI, and support for the playtak.com server.
 
 # Installation
 
-Taktician requires `go1.7` or newer. On OS X, try `brew update && brew
+Taktician requires `go1.13` or newer. On OS X, try `brew update && brew
 install go`.
 
 Once you have a working `go` installation, you can fetch+install the
